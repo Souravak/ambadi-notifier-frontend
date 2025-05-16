@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ambadi-notifier-frontend/static/css/main.d4739de4.css",
-    "main.js": "/ambadi-notifier-frontend/static/js/main.63d82bf7.js",
+    "main.js": "/ambadi-notifier-frontend/static/js/main.91d37c9a.js",
     "index.html": "/ambadi-notifier-frontend/index.html",
     "main.d4739de4.css.map": "/ambadi-notifier-frontend/static/css/main.d4739de4.css.map",
-    "main.63d82bf7.js.map": "/ambadi-notifier-frontend/static/js/main.63d82bf7.js.map"
+    "main.91d37c9a.js.map": "/ambadi-notifier-frontend/static/js/main.91d37c9a.js.map"
   },
   "entrypoints": [
     "static/css/main.d4739de4.css",
-    "static/js/main.63d82bf7.js"
+    "static/js/main.91d37c9a.js"
   ]
 }
