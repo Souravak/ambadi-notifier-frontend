@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ambadi-notifier-frontend/static/css/main.f855e6bc.css",
+    "main.js": "/ambadi-notifier-frontend/static/js/main.419834fa.js",
+    "index.html": "/ambadi-notifier-frontend/index.html",
+    "main.f855e6bc.css.map": "/ambadi-notifier-frontend/static/css/main.f855e6bc.css.map",
+    "main.419834fa.js.map": "/ambadi-notifier-frontend/static/js/main.419834fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.419834fa.js"
+  ]
+}
